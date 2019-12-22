@@ -2,7 +2,7 @@
 
 Copy these aliases in:
 
-> C:\Users\[User]\.gitconfig
+> C:\Users\\[User]\\.gitconfig
 
 ```
 [alias]
